@@ -1,0 +1,12 @@
+table{
+	font-family: Halvetica, sana-serif;
+border-collapse: collapse;
+border-width: 1px;
+border-style: solid;
+border-color: #01DFD7;
+}
+th{
+	background-color: #01DFD7;
+	color:#ffffff;
+	font-weight: 800;
+}
